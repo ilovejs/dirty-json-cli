@@ -4,9 +4,11 @@ This tool wrap dirty-json into cli tool
 
 ## Setup
 
-git clone `this repo`
-cd dirty-json-cli
-npm install -g
+  git clone `this repo`
+
+  cd dirty-json-cli
+
+  npm install -g
 
 ## Test
 

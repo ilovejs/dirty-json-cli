@@ -16,4 +16,10 @@
 - tutorial
     - https://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/
 
+- dirty-json lint
+    - https://github.com/freethenation/durable-json-lint
 
+## Question
+
+    * Are there and high level command line wrapper that turns any package into cli ??
+    

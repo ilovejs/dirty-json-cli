@@ -19,4 +19,3 @@ rl.on('line', function (line) {
     rl.close();
 })
 
-
